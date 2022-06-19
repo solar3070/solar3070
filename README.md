@@ -1,12 +1,22 @@
 <h2>Hi there 👋</h2>
-I'm <b>Hyejun Lee</b> who is interested in computer science.<br><br>
+- Junior Web Front-end Developer  
 
 
-📝 I'm currently learning.. 
-<img src="http://img.shields.io/badge/-React-000000?style=flat&logo=react" style="height : auto; margin-left : 10px; margin-right : 10px;"/><br>
+## 📁 Experience
+🦁 멋쟁이 사자처럼 8th, 9th 운영진  
+🖥 42 Seoul 카뎃  
+💜 SOPT 30th 웹 파트
 
-📁 <b>Experience</b>: LikeLion 8·9th / 42Seoul Cadet / SOPT 30th <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solar3070&show_icons=true&theme=slateorange)
+## 🔭 I’m interested in ...
 
-<a href="https://heycoding.tistory.com/"><img src="http://img.shields.io/badge/-Tech Blog-000000?style=flat&logo=blogger" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+</div>
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolar3070%2Fhit-counter&count_bg=%235096F9&title_bg=%23686868&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
