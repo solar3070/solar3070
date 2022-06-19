@@ -1,8 +1,7 @@
 <h2>Hi there 👋</h2>
 - Junior Web Front-end Developer  
+<br><br>
 
-
-## 📁 Experience
 🦁 멋쟁이 사자처럼 8th, 9th 운영진  
 🖥 42 Seoul 카뎃  
 💜 SOPT 30th 웹 파트
