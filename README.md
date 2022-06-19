@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Hi there 👋</h2>
+<h2>Hyejun Lee</h2>
 Junior Web Front-end Developer  
 <br>
   
